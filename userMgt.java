@@ -5,4 +5,7 @@ ayo
 obi
 loka
 datty
-toopmonarch
+toop
+monarch
+216 lounge
+est 2020
