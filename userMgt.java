@@ -1,7 +1,7 @@
 landmark
 simon
-dominion
-ayo
+tope
+deji
 obi
 loka
 datty
